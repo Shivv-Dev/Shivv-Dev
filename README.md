@@ -1,5 +1,1 @@
-<h1 align="center">Hi 👋, I'm Shiva Poojith</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Building+Production-Ready+AI+Applications;UI%2FUX+Designer;Always+Learning+Something+New+🚀" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Shiva+Poojith;AI+Engineer;Machine+Learning+Developer;Building+Production-Ready+AI+Applications;UI%2FUX+Designer;Always+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
